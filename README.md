@@ -49,7 +49,7 @@ Charts, Graphs and Key Performance Indicators(KPIs):
 - Donut chart is used to create distribution of promotional channnel bringing more students to the events.
 - Horizontal Bar chart is used to represent the variation of expected salary by family income.
 
-**Insights**
+**Insights:**
 Here are the key insights from the data analysis:
 
 1. Uniques students in the dataset is 2157.
@@ -62,3 +62,7 @@ Here are the key insights from the data analysis:
 8. From the table visualization, We found Delhi has highest avg CGPA while vasai has the lowest.
 9. From the column chart, we can conclude that if family income is more then GPA is also more.
 10. From the bar chart, we can say that when family income is more, expected salary is also more.
+
+**Outcome:**
+The project delivered actionable insights into student academic performance, technical skills, career expectations, and event engagement patterns. These insights facilitated evidence-based decision-making, enabling the institution to implement tailored support programs, enhance student engagement initiatives, and foster a more inclusive and supportive learning environment.
+
