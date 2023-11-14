@@ -33,4 +33,11 @@ The dataset consists of 16 columns, each column representing an attribute!
 - Leadership-skills: An indication of individual's skills related to leadership
 
 ## Project Workflow:
-1. Data Loading: Loaded the dataset using excel 
+**Cleaning and Preprocessing the data**
+1. Data loading : Imported the dataset from CSV file into excel.
+2. Removing duplicates: Focused on entire email column as a crucial identifier for duplicate entries and using excel's built-in features removed duplicates.
+
+**Creating Dashboard**
+After preprocessing the data, I imported the preprocessed excel file into Power BI, a data visualization tool. Here are the steps I followed.
+
+Charts, Graphs and Key Performance Indicators(KPIs):
