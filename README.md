@@ -41,3 +41,24 @@ The dataset consists of 16 columns, each column representing an attribute!
 After preprocessing the data, I imported the preprocessed excel file into Power BI, a data visualization tool. Here are the steps I followed.
 
 Charts, Graphs and Key Performance Indicators(KPIs):
+- Column chart is used to represent the distributon of students over different graduation years.
+- Using pie chart, visualized distribution of number of students over different graduation yeras.
+- Clustered column chart is used to represent the variation of average of CGPA by expected salary and leadership skills.
+- Pie chart is used to identify the total no of students atteneded data science related events.
+- Using scatter chart, identified variation of avaerage salary(lacs) by CGPA.
+- Donut chart is used to create distribution of promotional channnel bringing more students to the events.
+- Horizontal Bar chart is used to represent the variation of expected salary by family income.
+
+**Insights**
+Here are the key insights from the data analysis:
+
+1. Uniques students in the dataset is 2157.
+2. Average GPA of the student is 8.03.
+3. Positive correlation between Expected salary and CGPA.
+4. Number of students graduating by the end of 2024 is 679.
+5. Promotional channel bringing more students to the event is Blank.
+6. Total Number of students who attended Data Science related events is 520.
+7. we can say that no of students graduated are more in the year 2024.
+8. From the table visualization, We found Delhi has highest avg CGPA while vasai has the lowest.
+9. From the column chart, we can conclude that if family income is more then GPA is also more.
+10. From the bar chart, we can say that when family income is more, expected salary is also more.
